@@ -66,6 +66,7 @@ public static void weeklyincome(){     // without calling object
 		String name = "khaled"; ///variables
 			int age = 30;
 			System.out.println("My age = "+age);
+			System.out.println("My name is "+name);
 	}
 	
 	public static void khaled1(){
