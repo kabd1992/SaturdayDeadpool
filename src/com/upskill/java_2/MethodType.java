@@ -1,5 +1,5 @@
 package com.upskill.java_2;
-
+//Method Types
 public class MethodType {
 	
 	/* Types of Method
